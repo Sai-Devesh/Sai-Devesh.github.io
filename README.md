@@ -15,10 +15,13 @@ I'm 18 yrs old and I enjoy coding. I am pursuing Btech CSE in IIT Goa currently.
 | 2022 | 12 | Devi Academy |
 
 
-## Course @IT goa
+## Course @IIT goa
 - **CS 102** Software tools *Clint P.George* [cs102 software tools](https://clintpgeorge.github.io/cs-102/spring-2023/)
 - **MA 103** ODE *Soumya Bajbai*
 - **Ph102** Magnetism *Santhosh Kumar*
+- **EE101** Electronics *Dr. Bishan*
+- **BIO 101** Biology *Nipa*
+- **ME102** Mechanical *Arindam*
 ******
 
 ## Hobbies and Interests
