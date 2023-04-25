@@ -20,6 +20,7 @@ I'm 18 yrs old and I enjoy coding.
 - **MA 103** ODE *Soumya Bajbai*
 - **Ph102** Magnetism *Santhosh Kumar*
 ******
+
 ## Hobbies and Interests
 I love and enojy playing badminton. I play badminton professionally too. I enjoy playing baskletball yoo. I loved coding since I was 16 yrs old. In my free time I like to eat food, sleep and bionge on netflix.
 ******
