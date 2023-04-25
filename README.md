@@ -13,7 +13,8 @@ I'm 18 yrs old and I enjoy coding.
 | ----------- | ----------- | ----------- |
 | 2020 | 10 | Devi Academy |
 | 2022 | 12 | Devi Academy |
-******
+
+
 ## Course @IT goa
 - **CS 102** Software tools *Clint P.George* [cs102 software tools](https://clintpgeorge.github.io/cs-102/spring-2023/)
 - **MA 103** ODE *Soumya Bajbai*
