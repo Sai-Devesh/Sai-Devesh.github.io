@@ -3,7 +3,7 @@
 ## About Me
 I'm Annepu Sai Devesh
 
-![Sai Devesh](saidevesh.jpeg)
+![Sai Devesh](img.jpeg)
 
 I'm 18 yrs old and I enjoy coding. I am pursuing Btech CSE in IIT Goa currently. I aspire to become one of the best in the field of technology. I learned python fist when i was 16 in my school. I enjoyed using python and liked logical based problems the most. Ever since then I had a keen interest on coding and also learned C++. Even though I am a beginner... I wish to have a fun and exciting journey.
 ******
