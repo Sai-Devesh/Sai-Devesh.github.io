@@ -28,7 +28,7 @@ I'm 18 yrs old and I enjoy coding. I am pursuing Btech CSE in IIT Goa currently.
 - I love and enjoy playing badminton. I play badminton professionally too. 
 - I enjoy playing baskletball too. 
 - I loved coding since I was 16 yrs old. 
-- In my free time I like to eat food, sleep and bionge on netflix.
+- In my free time I like to eat food, sleep and binge on netflix.
 ******
 
 
